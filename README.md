@@ -1,70 +1,99 @@
-<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Harish Kumar
 
-- 🌱 Frontend Developer specializing in React.js
-- 💼 Building responsive and interactive web applications
-- 🎯 Focused on clean code and best practices
+\<h3 align="center">Frontend Developer | React.js | Next.js | Angular | JavaScript\</h3>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;React.js+%7C+Next.js+%7C+Angular;Exploring+Backend+Development;Turning+Ideas+Into+Reality](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=600\&lines=Building+Modern+Web+Experiences;React.js+%7C+Next.js+%7C+Angular;Exploring+Backend+Development;Turning+Ideas+Into+Reality)" alt="Typing SVG" />
+\</p>
 
-**Core Frontend Technologies:**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)">
+&#x20;   \<img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views"/>
+&#x20; \</a>
+\</p>
 
-**State Management & Libraries:**
-<p align="left">
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="zustand" width="40" height="40"/>
-  </a>
-</p>
+---
 
-**Styling & UI Frameworks:**
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 About Me
 
-**Testing & Development Tools:**
-<p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+I'm a passionate **Frontend Developer with 2+ years of experience**, focused on creating modern, responsive, and user-friendly web applications.
 
-**Design Tools:**
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
+- 💻 Specializing in **React.js, Next.js, Angular & TypeScript**
+- 🎨 Passionate about clean UI, reusable components and responsive design
+- ⚡ Experienced in state management, API integration and performance optimization
+- 🔧 Familiar with backend development using **Node.js, Express.js and databases**
+- 🌱 Always learning, building and exploring new technologies
+- 🎯 Focused on writing clean, scalable and maintainable code
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,ts,html,css](https://skillicons.dev/icons?i=js,ts,html,css)" />
+\</p>
+
+#### ⚛️ Frontend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,materialui](https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,materialui)" />
+\</p>
+
+#### 🖥️ Backend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,firebase](https://skillicons.dev/icons?i=nodejs,express,firebase)" />
+\</p>
+
+#### 🗄️ Database & API
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman)" />
+\</p>
+
+#### 🧪 Testing & Development Tools
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=jest,git,github,bitbucket,npm,vite,webpack,vscode](https://skillicons.dev/icons?i=jest,git,github,bitbucket,npm,vite,webpack,vscode)" /> \</p>
+
+#### 🎨 Design Tools
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=figma,photoshop](https://skillicons.dev/icons?i=figma,photoshop)" />
+\</p>
+
+---
+
+### 📊 GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="GitHub Stats"/>
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages"/>
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
+\</p>
+
+---
+
+### 🌐 Let's Connect
+
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)" target="\_blank">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)" target="\_blank">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:YOUR_EMAIL">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">   \<i>"Great things are built one component at a time."\</i> \</p>
+
+\<p align="center">   ⭐ If you like my work, consider exploring my repositories! \</p>
