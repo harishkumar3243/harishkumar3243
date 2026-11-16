@@ -68,24 +68,36 @@ I'm **Harish Kumar**, a passionate Frontend Developer with **2+ years of experie
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishkumar3243&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumar3243&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harishkumar3243&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harishkumar3243&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=harishkumar3243&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+
 ---
+
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harishkumar3243/harishkumar3243/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harishkumar3243/harishkumar3243/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harishkumar3243/harishkumar3243/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/harishkumar3243/harishkumar3243/output/github-contribution-grid-snake.svg"
+      width="100%"/>
+  </picture>
 </p>
+
 
 ---
 
